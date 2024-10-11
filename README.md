@@ -9,7 +9,6 @@
 
 <div align="center">
   <a href="https://github.com/walber-araujo/">
-    <img align="center" src="https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif" width="600">
   </a>
 </div>
 <br>
