@@ -1,4 +1,9 @@
-### Hi, all! 👋 I'm Walber Wesley Félix de Araújo Filho,
+### Hi, all! 👋  
+I'm **Walber Wesley Félix de Araújo Filho**, a Computer Science student at the **Federal University of Campina Grande (UFCG)**.  
+
+I have experience in **C++**, **Java**, **Python**, and **Swift**, as well as in **macOS and Linux development**. I'm also part of the **NuFuturo Lab**, a partnership between UFCG and **Nubank**, where I work on innovative projects that combine technology and real-world impact.  
+
+I'm always looking for new learning opportunities and challenges to develop efficient and meaningful solutions! 🚀
 
 <div>
   
